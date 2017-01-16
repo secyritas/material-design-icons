@@ -1,5 +1,5 @@
 .icon {
-  background-image: url(../images/sprite-alert-white.PNG);
+  background-image: url(sprite-alert-white.PNG);
 }
 .icon-ic_add_alert_white_24dp {
   background-position: -0px -0px;
@@ -22,7 +22,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-alert-black.PNG);
+  background-image: url(sprite-alert-black.PNG);
 }
 .icon-ic_add_alert_black_24dp {
   background-position: -0px -0px;

@@ -1,5 +1,5 @@
 .icon {
-  background-image: url(../images/sprite-alert-white.PNG);
+  background-image: url(sprite-alert-white.PNG);
 }
 .icon-ic_add_alert_white_24dp {
   background-position: -0px -0px;
@@ -22,7 +22,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-alert-black.PNG);
+  background-image: url(sprite-alert-black.PNG);
 }
 .icon-ic_add_alert_black_24dp {
   background-position: -0px -0px;
@@ -45,7 +45,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-toggle-white.PNG);
+  background-image: url(sprite-toggle-white.PNG);
 }
 .icon-ic_check_box_outline_blank_white_24dp {
   background-position: -0px -0px;
@@ -88,7 +88,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-toggle-black.PNG);
+  background-image: url(sprite-toggle-black.PNG);
 }
 .icon-ic_check_box_black_24dp {
   background-position: -0px -0px;
@@ -131,7 +131,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-file-black.PNG);
+  background-image: url(sprite-file-black.PNG);
 }
 .icon-ic_attachment_black_24dp {
   background-position: -32px -0px;
@@ -204,7 +204,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-file-white.PNG);
+  background-image: url(sprite-file-white.PNG);
 }
 .icon-ic_attachment_white_24dp {
   background-position: -32px -0px;
@@ -277,7 +277,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-places-white.PNG);
+  background-image: url(sprite-places-white.PNG);
 }
 .icon-ic_ac_unit_white_24dp {
   background-position: -32px -0px;
@@ -375,7 +375,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-places-black.PNG);
+  background-image: url(sprite-places-black.PNG);
 }
 .icon-ic_ac_unit_black_24dp {
   background-position: -32px -0px;
@@ -473,7 +473,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-navigation-black.PNG);
+  background-image: url(sprite-navigation-black.PNG);
 }
 .icon-ic_apps_black_24dp {
   background-position: -32px -0px;
@@ -611,7 +611,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-navigation-white.PNG);
+  background-image: url(sprite-navigation-white.PNG);
 }
 .icon-ic_apps_white_24dp {
   background-position: -32px -0px;
@@ -749,7 +749,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-social-black.PNG);
+  background-image: url(sprite-social-black.PNG);
 }
 .icon-ic_cake_black_24dp {
   background-position: -32px -0px;
@@ -902,7 +902,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-social-white.PNG);
+  background-image: url(sprite-social-white.PNG);
 }
 .icon-ic_cake_white_24dp {
   background-position: -32px -0px;
@@ -1055,7 +1055,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-content-black.PNG);
+  background-image: url(sprite-content-black.PNG);
 }
 .icon-ic_add_black_24dp {
   background-position: -32px -0px;
@@ -1263,7 +1263,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-content-white.PNG);
+  background-image: url(sprite-content-white.PNG);
 }
 .icon-ic_add_box_white_24dp {
   background-position: -32px -0px;
@@ -1471,7 +1471,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-hardware-white.PNG);
+  background-image: url(sprite-hardware-white.PNG);
 }
 .icon-ic_cast_connected_white_24dp {
   background-position: -32px -0px;
@@ -1714,7 +1714,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-hardware-black.PNG);
+  background-image: url(sprite-hardware-black.PNG);
 }
 .icon-ic_cast_black_24dp {
   background-position: -32px -0px;
@@ -1957,7 +1957,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-communication-black.PNG);
+  background-image: url(sprite-communication-black.PNG);
 }
 .icon-ic_business_black_24dp {
   background-position: -32px -0px;
@@ -2210,7 +2210,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-communication-white.PNG);
+  background-image: url(sprite-communication-white.PNG);
 }
 .icon-ic_business_white_24dp {
   background-position: -32px -0px;
@@ -2463,7 +2463,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-notification-white.PNG);
+  background-image: url(sprite-notification-white.PNG);
 }
 .icon-ic_adb_white_24dp {
   background-position: -32px -0px;
@@ -2736,7 +2736,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-notification-black.PNG);
+  background-image: url(sprite-notification-black.PNG);
 }
 .icon-ic_adb_black_24dp {
   background-position: -32px -0px;
@@ -3009,7 +3009,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-editor-black.PNG);
+  background-image: url(sprite-editor-black.PNG);
 }
 .icon-ic_attach_file_black_24dp {
   background-position: -32px -0px;
@@ -3352,7 +3352,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-editor-white.PNG);
+  background-image: url(sprite-editor-white.PNG);
 }
 .icon-ic_attach_file_white_24dp {
   background-position: -32px -0px;
@@ -3695,7 +3695,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-maps-white.PNG);
+  background-image: url(sprite-maps-white.PNG);
 }
 .icon-ic_add_location_white_24dp {
   background-position: -32px -0px;
@@ -4038,7 +4038,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-maps-black.PNG);
+  background-image: url(sprite-maps-black.PNG);
 }
 .icon-ic_add_location_black_24dp {
   background-position: -32px -0px;

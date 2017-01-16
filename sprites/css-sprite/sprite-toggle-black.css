@@ -1,5 +1,5 @@
 .icon {
-  background-image: url(../images/sprite-alert-white.PNG);
+  background-image: url(sprite-alert-white.PNG);
 }
 .icon-ic_add_alert_white_24dp {
   background-position: -0px -0px;
@@ -22,7 +22,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-alert-black.PNG);
+  background-image: url(sprite-alert-black.PNG);
 }
 .icon-ic_add_alert_black_24dp {
   background-position: -0px -0px;
@@ -45,7 +45,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-toggle-white.PNG);
+  background-image: url(sprite-toggle-white.PNG);
 }
 .icon-ic_check_box_outline_blank_white_24dp {
   background-position: -0px -0px;
@@ -88,7 +88,7 @@
   height: 32px;
 }
 .icon {
-  background-image: url(../images/sprite-toggle-black.PNG);
+  background-image: url(sprite-toggle-black.PNG);
 }
 .icon-ic_check_box_black_24dp {
   background-position: -0px -0px;
